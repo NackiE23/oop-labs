@@ -1,0 +1,4 @@
+12345,John Doe,27.11.2023 23:29:09,0,14,Jane Author,A Great Book,2022,XYZ Publications,19
+67890,Alice Smith,20.11.2023 23:29:09,3,21,John Writer,Love Story,2021,ABC Publishers,15
+12345,John Doe,27.11.2023 23:30:40,0,14,Jane Author,A Great Book,2022,XYZ Publications,19,99
+67890,Alice Smith,20.11.2023 23:30:40,3,21,John Writer,Love Story,2021,ABC Publishers,15,99
