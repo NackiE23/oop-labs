@@ -53,3 +53,8 @@ for (int i = start + 1; i < end; i++)
 }
 
 System.Console.WriteLine($"Product: {product}");
+
+// Sort items between start and end indexes
+Array.Sort(array, start + 1, end - start - 1, Comparer<double>.Create((a, b) => b.CompareTo(a)));
+
+Console.WriteLine("Array after sorting between min and max: " + string.Join(", ", array));
